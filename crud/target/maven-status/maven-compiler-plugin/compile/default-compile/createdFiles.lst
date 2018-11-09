@@ -1,2 +1,9 @@
+com/ricardo/crud/service/UserService.class
+com/ricardo/crud/dao/UserRepository.class
 com/ricardo/crud/controller/indexController.class
+com/ricardo/crud/controller/UserController.class
+com/ricardo/crud/util/RestResponse.class
+com/ricardo/crud/model/User.class
+com/ricardo/crud/service/UserServiceImpl.class
+com/ricardo/crud/util/QueryResult.class
 com/ricardo/crud/CrudSpringBootApplication.class
